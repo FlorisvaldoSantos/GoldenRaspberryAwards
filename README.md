@@ -6,13 +6,14 @@
 
 Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e vencedores de categoria **Pior Filmes** do *Golden Raspberry Awards*
 
-
-## :hammer: Requisito do Sistema:
+### :hammer: Requisito do Sistema:
 ```
+
   1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao iniciar a aplicação.
+  
 ```
 	
-## :hammer: Requisitos da API:
+### :hammer: Requisitos da API:
 ```
 
   1. Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve 
@@ -20,7 +21,7 @@ Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e 
 
 ```
 	
-## :hammer: Requisitos não funcionais do sistema:
+### :hammer: Requisitos não funcionais do sistema:
 ```
 
   1. O web service RESTful deve ser implementado com base no nível 2 de maturidade de Richardson.
@@ -32,8 +33,33 @@ Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e 
 
 ```
 
-## :hammer_and_wrench: Abrir e Executar o projeto.
+### :hammer_and_wrench: Abrir e Executar o projeto.
+```
+O projeto foi desenvolvido no Visual Studio 2019 Community 
 
+	- Dentro do diretório abra o arquivo da solução GoldenRaspberryAwards.sln
+	- Clicar em Executar o projeto normalmente.
+	
+```
+
+### :gear: Tecnologias utilizadas
+
+* [Net Core 5)](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) 
+* [AutoMapper (11.0.1)](https://automapper.org/)
+* [Microsoft.EntityFrameworkCore.Design (5.0.17)](https://docs.microsoft.com/pt-br/ef/core/)
+* [Microsoft.EntityFrameworkCore.Sqlite (5.0.17)](https://docs.microsoft.com/pt-br/ef/core/)
+* [Microsoft.EntityFrameworkCore.Tools (5.0.17)](https://docs.microsoft.com/pt-br/ef/core/)
+* [Microsoft.EntityFrameworkCore.InMemory (5.0.17)](https://docs.microsoft.com/pt-br/ef/core/)
+* [Microsoft.Extensions.Configuration (5.0.17)](https://github.com/dotnet/runtime)
+* [Swashbuckle.AspNetCore (5.6.3)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+* [FluentValidation (11.2.1)](https://docs.fluentvalidation.net/en/latest/)
+* [coverlet.collector (3.0.2)](https://github.com/coverlet-coverage/coverlet)
+* [Microsoft.AspNetCore.Mvc.Testing (5.0.17)](https://asp.net/)
+* [Microsoft.NET.Test.Sdk (16.9.4)](https://github.com/microsoft/vstest/)
+* [MSTest.TestAdapter (16.9.4)](https://github.com/microsoft/testfx)
+* [MSTest.TestFramework (2.2.3)](https://github.com/microsoft/testfx)
+* [Microsoft.Extensions.Configuration.Json (5.0.0)](https://github.com/dotnet/runtime)
+		
 
 
 <h4 align="center"> 
