@@ -2,23 +2,22 @@
 
 # :rocket: Golden Raspberry Awards
 ```
-<i>Esse projeto foi desenvolvido para um teste técnico sendo sua descrição e os requisitos criados pela empresa solicitante.</i>
+*Esse projeto foi desenvolvido para um teste técnico sendo sua descrição e os requisitos criados pela empresa solicitante.*
 
-Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e vencedores de categoria <b>Pior Filmes</b> do <i>Golden Raspberry Awards</i>
+Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e vencedores de categoria **Pior Filmes** do *Golden Raspberry Awards*
 ```
 
 ## :hammer: Requisito do Sistema:
 ```
-<ol>
-  <li>Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao iniciar a aplicação.</li>
-</ol> 
+  1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao iniciar a aplicação.
 ```
 	
 ## :hammer: Requisitos da API:
 ```
-<ol>
-  <li>Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido, seguindo a especificação de formato definida na página 2.</li>
-</ol> 
+
+  1. Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido, 
+  seguindo a especificação de formato definida na página 2.
+
 ```
 	
 ## :hammer: Requisitos não funcionais do sistema:
