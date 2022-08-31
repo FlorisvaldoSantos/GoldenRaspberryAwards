@@ -15,8 +15,8 @@ Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e 
 ## :hammer: Requisitos da API:
 ```
 
-  1. Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido, 
-  seguindo a especificação de formato definida na página 2.
+  1. Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve 
+  dois prêmios mais rápido, seguindo a especificação de formato definida na página 2.
 
 ```
 	
@@ -24,8 +24,10 @@ Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e 
 ```
 
   1. O web service RESTful deve ser implementado com base no nível 2 de maturidade de Richardson.
-  2. Devem ser implementados somente testes de integração. Eles devem garantir que os dados obtidos estão de acordo com os dados fornecidos na proposta.
-  3. O banco de dados deve estar em memória utilizando um SGBD embarcado (por exemplo, H2). Nenhuma instalação externa deve ser necessária.
+  2. Devem ser implementados somente testes de integração. Eles devem garantir que os dados 
+  obtidos estão de acordo com os dados fornecidos na proposta.
+  3. O banco de dados deve estar em memória utilizando um SGBD embarcado (por exemplo, H2). 
+  Nenhuma instalação externa deve ser necessária.
   4. A aplicação deve conter um readme com instruções para rodar o projeto e os testes de integração.
 
 ```
