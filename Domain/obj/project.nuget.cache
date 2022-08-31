@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+otu/LJB7DWvfQgdUaPJxRIeL70+q6Lx3AhVNrVEkLosc604BbG6qnJfp8IrKFAOfEMc/OARUTJOBmAe19K9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filsj\\source\\repos\\GoldenRaspberryAwards\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filsj\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\filsj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

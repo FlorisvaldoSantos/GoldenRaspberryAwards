@@ -1,0 +1,5 @@
+﻿producer;interval;previousWin;followingWin
+Producer 1;1;2008;2009
+Producer 2;1;2018;2019
+Producer 1;99;1900;1999
+Producer 2;99;2000;2099
