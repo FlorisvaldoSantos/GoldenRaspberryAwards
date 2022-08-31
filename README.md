@@ -17,8 +17,9 @@ Projeto desenvolvido em API RESTfull para possibilitar a leitura de indicados e 
 ```
 
   1. Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve 
-  dois prêmios mais rápido, seguindo a especificação de formato definida na página 2.
+  dois prêmios mais rápido, seguindo a especificação de formato definida na imagem abaixo.
 
+![formatojson](https://user-images.githubusercontent.com/5290411/187750315-e5336225-1bd2-4c59-aa0f-e8bc984ecb74.png)
 ```
 	
 ### :hammer: Requisitos não funcionais do sistema:
